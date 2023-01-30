@@ -25,8 +25,7 @@ $date = date('h:i');
         <div slot="sub-headline">Dashboard</div>
 
         <nav slot="nav">
-          <a href="https://tympanus.net/codrops/?p=58877" target="_blank">Article</a>
-          <a href="https://github.com/sergejcodes/codrops-minze-demo" target="_blank">GitHub</a>
+
         </nav>
       </sh-header>
 
